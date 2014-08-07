@@ -1,0 +1,23 @@
+commit b2fc436fc8ca92a923abfcd1a4df2bad7fca0750 (HEAD, origin/master, origin/HEAD, master)
+Author: sinfallas <sinfallas@gmail.com>
+Date:   Thu Aug 7 19:09:36 2014 -0430
+
+    * se agregan los archivos AUTHORS y COPYING
+
+commit c537f89ef9b2b90eb5390f4a236757294a7dcc47
+Author: sinfallas <sinfallas@gmail.com>
+Date:   Thu Aug 7 19:08:20 2014 -0430
+
+    * se agrega el numero del terminal en el ejemplo
+
+commit 685670892714e332f4f5599b16ef33445e0e2ed2
+Author: sinfallas <sinfallas@gmail.com>
+Date:   Thu Aug 7 19:01:31 2014 -0430
+
+    * subida inicial
+
+commit 07a25a597b9aac04f0584165b15c6b32383a2d00
+Author: Jesus Palencia <sinfallas@users.noreply.github.com>
+Date:   Thu Aug 7 19:00:40 2014 -0430
+
+    Initial commit
