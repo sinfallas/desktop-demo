@@ -25,7 +25,7 @@ case "$1" in
 		;;
 
 	*)
-		echo "USO: $0 {kde|lxde|unity|xfce|virtualbox}"
+		echo "USO: $0 {kde|lxde|unity|xfce|virtualbox} 1-6"
 		exit 0
 		;;
 esac
