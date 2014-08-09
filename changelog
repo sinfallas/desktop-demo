@@ -1,4 +1,16 @@
-commit b2fc436fc8ca92a923abfcd1a4df2bad7fca0750 (HEAD, origin/master, origin/HEAD, master)
+commit f4185ea59086277a072a5e11997edddf4275c7dc (HEAD, origin/master, origin/HEAD, master)
+Author: sinfallas <sinfallas@gmail.com>
+Date:   Fri Aug 8 21:56:53 2014 -0430
+
+    * bugfix
+
+commit d4b7d8381e30d1c1d279380eac0cd34d8a130996 (tag: v0.1)
+Author: sinfallas <sinfallas@gmail.com>
+Date:   Thu Aug 7 19:10:10 2014 -0430
+
+    * changelog
+
+commit b2fc436fc8ca92a923abfcd1a4df2bad7fca0750
 Author: sinfallas <sinfallas@gmail.com>
 Date:   Thu Aug 7 19:09:36 2014 -0430
 
