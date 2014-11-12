@@ -2,7 +2,7 @@
 #elaborado por sinfallas
 if [ $USER != root ]; then
 echo "Error: debes ser root"
-exit 0
+exit 1
 fi
 case "$1" in
 	kde)
