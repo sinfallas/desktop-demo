@@ -24,8 +24,12 @@ case "$1" in
 		startx virtualbox -- :$2
 		;;
 
+	install)
+		apt -y install xubuntu-desktop lubuntu-desktop kubuntu-desktop virtualbox
+		;;
+
 	*)
-		echo "USO: $0 {kde|lxde|unity|xfce|virtualbox} 1-6"
+		echo "USO: $0 {kde|lxde|unity|xfce|virtualbox|install} 1-6"
 		exit 0
 		;;
 esac
