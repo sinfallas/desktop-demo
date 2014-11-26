@@ -1,4 +1,16 @@
-commit d3deec25efcb233845e7ddffba5f97b916ce5f34 (HEAD, origin/master, origin/HEAD, master)
+commit 08fd74d338a8af9b1be4f7a26efa98922b63d9a2 (HEAD, origin/master, origin/HEAD, master)
+Author: sinfallas <sinfallas@gmail.com>
+Date:   Wed Nov 26 19:19:31 2014 -0430
+
+    * se agrega la funcion para instalar los escritorios
+
+commit 7b826824c5df3f42ab3920c2005ae9e42cbd7b97
+Author: sinfallas <sinfallas@gmail.com>
+Date:   Mon Nov 24 01:03:44 2014 -0430
+
+    * changelog
+
+commit d3deec25efcb233845e7ddffba5f97b916ce5f34
 Author: sinfallas <sinfallas@gmail.com>
 Date:   Mon Nov 24 01:03:27 2014 -0430
 
