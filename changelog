@@ -1,4 +1,16 @@
-commit 08fd74d338a8af9b1be4f7a26efa98922b63d9a2 (HEAD, origin/master, origin/HEAD, master)
+commit 7ae8214f34c23328e99cd5fc33b15a1944d9056b (HEAD, origin/master, origin/HEAD, master)
+Author: sinfallas <sinfallas@gmail.com>
+Date:   Wed Nov 26 19:30:29 2014 -0430
+
+    * se agrega trap
+
+commit 207676abcf7a0698f81bc22e3cd2f5cf05c09c5f
+Author: sinfallas <sinfallas@gmail.com>
+Date:   Wed Nov 26 19:20:17 2014 -0430
+
+    * changelog
+
+commit 08fd74d338a8af9b1be4f7a26efa98922b63d9a2
 Author: sinfallas <sinfallas@gmail.com>
 Date:   Wed Nov 26 19:19:31 2014 -0430
 
