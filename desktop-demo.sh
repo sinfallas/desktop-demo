@@ -10,8 +10,8 @@ case "$1" in
 		startx startkde -- :$2
 		;;	
 
-	lxde)
-		startx startlubuntu -- :$2
+	gnome)
+		startx gnome-shell -- :$2
 		;;
 
 	unity)
@@ -27,11 +27,11 @@ case "$1" in
 		;;
 
 	install)
-		apt -y install xubuntu-desktop lubuntu-desktop kubuntu-desktop virtualbox
+		apt -y install xubuntu-desktop gnome kubuntu-desktop virtualbox
 		;;
 
 	*)
-		echo "USO: $0 {kde|lxde|unity|xfce|virtualbox|install} 1-6"
+		echo "USO: $0 {kde|gnome|unity|xfce|virtualbox|install} 1-6"
 		exit 0
 		;;
 esac
