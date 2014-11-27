@@ -1,4 +1,16 @@
-commit 7ae8214f34c23328e99cd5fc33b15a1944d9056b (HEAD, origin/master, origin/HEAD, master)
+commit 58fcec786a8fb6723e8918f41fb96ad517e7dc6d (HEAD, origin/master, origin/HEAD, master)
+Author: sinfallas <sinfallas@gmail.com>
+Date:   Wed Nov 26 21:18:36 2014 -0430
+
+    * se sustituye lxde por gnome
+
+commit d97f6cc3459f29d2bcc2d1f047a995f1fa1451f6
+Author: sinfallas <sinfallas@gmail.com>
+Date:   Wed Nov 26 19:30:54 2014 -0430
+
+    * changelog
+
+commit 7ae8214f34c23328e99cd5fc33b15a1944d9056b
 Author: sinfallas <sinfallas@gmail.com>
 Date:   Wed Nov 26 19:30:29 2014 -0430
 
