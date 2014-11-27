@@ -3,6 +3,8 @@ if [ $USER != root ]; then
 echo "Error: debes ser root"
 exit 1
 fi
+trap "rm -f /run/desktop-demo.pid; exit" INT TERM EXIT
+echo $BASHPID > /run/desktop-demo.pid
 case "$1" in
 	kde)
 		startx startkde -- :$2
@@ -33,4 +35,6 @@ case "$1" in
 		exit 0
 		;;
 esac
+rm -f /run/desktop-demo.pid
+trap - INT TERM EXIT
 exit 0
