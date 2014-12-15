@@ -1,4 +1,16 @@
-commit cd78a8777431520b5e62e4c16381f127ede4ef7d (HEAD, origin/master, origin/HEAD, master)
+commit 4738aa0dea3762508bde42ca5b98bbafe65d842a (HEAD, origin/master, origin/HEAD, master)
+Author: Jose Perez <sinfallas@users.noreply.github.com>
+Date:   Thu Dec 11 09:46:05 2014 -0430
+
+    Update README.md
+
+commit cc3acd3b769f4ed35f92323aaf081bbd42c68fe1
+Author: sinfallas <sinfallas@gmail.com>
+Date:   Wed Dec 3 15:51:44 2014 -0430
+
+    * changelog
+
+commit cd78a8777431520b5e62e4c16381f127ede4ef7d
 Author: sinfallas <sinfallas@gmail.com>
 Date:   Wed Nov 26 21:18:58 2014 -0430
 
