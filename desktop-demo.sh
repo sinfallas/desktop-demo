@@ -32,7 +32,6 @@ case "$1" in
 
 	*)
 		echo "USO: $0 {kde|gnome|unity|xfce|virtualbox|install} 1-6"
-		exit 0
 		;;
 esac
 rm -f /run/desktop-demo.pid
