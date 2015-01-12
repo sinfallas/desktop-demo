@@ -27,6 +27,7 @@ case "$1" in
 		;;
 
 	install)
+		apt update
 		apt -y install xubuntu-desktop gnome kubuntu-desktop virtualbox
 		;;
 
