@@ -1,4 +1,16 @@
-commit b069559f709688c81bed1265927df1bd03f078f7 (HEAD, origin/master, origin/HEAD, master)
+commit 8ffa9f527623c29174af033a35aec5ee8ee3229a (HEAD, origin/master, origin/HEAD, master)
+Author: Jose Perez <sinfallas@users.noreply.github.com>
+Date:   Mon Jan 12 15:44:09 2015 -0430
+
+    Update desktop-demo.sh
+
+commit 3ce4de168d598262f6cb04c1fe143166d05aa3ca
+Author: sinfallas <sinfallas@gmail.com>
+Date:   Thu Jan 8 00:48:10 2015 -0430
+
+    * changelog
+
+commit b069559f709688c81bed1265927df1bd03f078f7
 Author: sinfallas <sinfallas@gmail.com>
 Date:   Thu Jan 8 00:47:17 2015 -0430
 
