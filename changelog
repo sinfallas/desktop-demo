@@ -1,4 +1,16 @@
-commit 8ffa9f527623c29174af033a35aec5ee8ee3229a (HEAD, origin/master, origin/HEAD, master)
+commit cbb6e54038a63ee69a84ad52c063c1a706c014af (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Thu Mar 5 20:34:47 2015 -0430
+
+    * se agrega un mensaje al final de la instalacion
+
+commit 5dc14417fc5f28097e7e50f18372907e500607e1
+Author: sinfallas <sinfallas@gmail.com>
+Date:   Tue Jan 13 19:18:37 2015 -0430
+
+    * changelog
+
+commit 8ffa9f527623c29174af033a35aec5ee8ee3229a
 Author: Jose Perez <sinfallas@users.noreply.github.com>
 Date:   Mon Jan 12 15:44:09 2015 -0430
 
