@@ -1,6 +1,6 @@
 #!/bin/bash
-if [ $USER != root ]; then
-echo "Error: debes ser root"
+if [[ $USER != root ]]; then
+echo -e "\e[00;31mERROR: must be root\e[00m"
 exit 1
 fi
 trap "rm -f /run/desktop-demo.pid; exit" INT TERM EXIT
@@ -33,7 +33,7 @@ case "$1" in
 		;;
 
 	*)
-		echo "USO: $0 {kde|gnome|unity|xfce|virtualbox|install} 1-6"
+		echo "usage: $0 {kde|gnome|unity|xfce|virtualbox|install} 1-6"
 		;;
 esac
 rm -f /run/desktop-demo.pid
