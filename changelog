@@ -1,4 +1,16 @@
-commit cbb6e54038a63ee69a84ad52c063c1a706c014af (HEAD, origin/master, origin/HEAD, master)
+commit 621571cbee90834ff2ac71e0a068f6a710058209 (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Fri Mar 6 16:45:50 2015 -0430
+
+    * se completa la traduccion
+
+commit 47f35afb2f3724fa39da64be6ac825e7fc0936a6
+Author: jose perez <sinfallas@gmail.com>
+Date:   Thu Mar 5 20:35:11 2015 -0430
+
+    * changelog
+
+commit cbb6e54038a63ee69a84ad52c063c1a706c014af
 Author: jose perez <sinfallas@gmail.com>
 Date:   Thu Mar 5 20:34:47 2015 -0430
 
