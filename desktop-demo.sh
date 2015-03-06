@@ -29,6 +29,7 @@ case "$1" in
 	install)
 		apt update
 		apt -y install xubuntu-desktop gnome kubuntu-desktop virtualbox
+		echo -e "\e[00;1;92mFinished...\e[00m"
 		;;
 
 	*)
