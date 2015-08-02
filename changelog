@@ -1,4 +1,16 @@
-commit 621571cbee90834ff2ac71e0a068f6a710058209 (HEAD, origin/master, origin/HEAD, master)
+commit 7eaedcd2b87e280f598a6e5ba83e6961d9afef7b (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sat Aug 1 21:26:34 2015 -0430
+
+    * coveralls
+
+commit 2ab6bdbe4e4f12401aa2d9a00ef41897ca3f4a51 (tag: v0.1.4)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Fri Mar 6 16:46:07 2015 -0430
+
+    * changelog
+
+commit 621571cbee90834ff2ac71e0a068f6a710058209
 Author: jose perez <sinfallas@gmail.com>
 Date:   Fri Mar 6 16:45:50 2015 -0430
 
