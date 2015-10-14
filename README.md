@@ -5,8 +5,6 @@ desktop-demo
 
 ![Status](https://api.travis-ci.org/sinfallas/desktop-demo.svg) 
 
-[![Coverage Status](https://coveralls.io/repos/sinfallas/desktop-demo/badge.svg?branch=master&service=github)](https://coveralls.io/github/sinfallas/desktop-demo?branch=master)
-
 Script to run several desktop environment from terminal
 
 ## How to use
