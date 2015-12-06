@@ -1,4 +1,28 @@
-commit 4e422fa370a3464b694bdfa971fa562073af3f97 (HEAD, origin/master, origin/HEAD, master)
+commit a1fd1edf656e43487ca0facf38b3535f018d68ad (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sun Dec 6 17:59:56 2015 -0430
+
+    boinc-preinstaller
+
+commit 6ee2b4205b20f810b3aedc64031c7fd7adb780e3
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sun Oct 18 23:56:17 2015 -0430
+
+    optimizaciones
+
+commit e5ccf84d308215af87e194e151b58319497156ce
+Author: jose perez <sinfallas@gmail.com>
+Date:   Tue Oct 13 21:56:35 2015 -0430
+
+    coveralls
+
+commit 5f18e3fb631e6ccb016748438781fd689d9285b3
+Author: jose perez <sinfallas@gmail.com>
+Date:   Mon Oct 12 12:53:08 2015 -0430
+
+    * changelog
+
+commit 4e422fa370a3464b694bdfa971fa562073af3f97
 Author: jose perez <sinfallas@gmail.com>
 Date:   Mon Oct 12 12:52:55 2015 -0430
 
