@@ -6,8 +6,8 @@ if [[ $USER != root ]]; then
 	echo -e "\e[00;31mERROR: must be root\e[00m"
 	exit 1
 fi
-trap "rm -f /run/desktop-demo.pid; exit" INT TERM EXIT
-echo "$BASHPID" > /run/desktop-demo.pid
+trap "rm -f /run/$(basename $0).pid; exit" INT TERM EXIT
+echo "$BASHPID" > /run/$(basename $0).pid
 case "$1" in
 	kde)
 		startx startkde -- :$2
@@ -36,9 +36,9 @@ case "$1" in
 		;;
 
 	*)
-		echo "usage: $0 {kde|gnome|unity|xfce|virtualbox|install} 1-6"
+		echo "usage: $(basename $0) {kde|gnome|unity|xfce|virtualbox|install} 1-6"
 		;;
 esac
-rm -f /run/desktop-demo.pid
+rm -f /run/$(basename $0).pid
 trap - INT TERM EXIT
 exit 0
