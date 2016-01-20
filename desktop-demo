@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 # Made by Sinfallas <sinfallas@yahoo.com>
 # Licence: GPL-2
-set -eu
 LC_ALL=C
 if [[ "$EUID" != "0" ]]; then
 	echo -e "\e[00;31mERROR: must be root\e[00m"
