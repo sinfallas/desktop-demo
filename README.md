@@ -16,5 +16,6 @@ $ chmod +x desktop-demo
 Then execute as root or sudo:
 
 ```bash
- ./desktop-demo install
-  ./desktop-demo kde|gnome|unity|xfce|virtualbox
+./desktop-demo install
+./desktop-demo kde|gnome|unity|xfce|virtualbox
+```
